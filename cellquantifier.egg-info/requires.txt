@@ -1,0 +1,10 @@
+trackpy
+pims
+requests
+seaborn
+matplotlib-scalebar
+matplotlib
+pandas
+scikit-learn
+scikit-image==0.16.2
+keras
